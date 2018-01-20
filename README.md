@@ -1,2 +1,4 @@
 # hello-world
-Hello World
+echo "Hello World"
+
+Hi Humans
